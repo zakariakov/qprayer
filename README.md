@@ -20,21 +20,36 @@ sudo make install
 ### Help
 
 Usage: qprayer [OPTION]
-    OPTION:
-     -h  --help                 Print this help.
-     --country                  List country.
-     --city     <country num>   List city by country num
-     --info     <city name>     Get informations by city name
-     -f                         Get Fajr prayer time.
-     -s                         Get Sunrise time.
-     -d                         Get Dhuhr prayer time.
-     -a                         Get Asr prayer time.
-     -m                         Get Maghrib prayer time.
-     -i                         Get Ishaa prayer time.
-     -p                         Get elapsed from previous prayer time.
-     -n                         Get remaining to next prayer time.
-     -N                         Get next prayer Name.
-     -Na                        Get next prayer Name in arabic.
+
+OPTION:
+    
+-h  --help                 Print this help.
+     
+--country                  List country.
+     
+--city     <country num>   List city by country num
+     
+--info     <city name>     Get informations by city name
+     
+-f                         Get Fajr prayer time.
+     
+-s                         Get Sunrise time.
+     
+-d                         Get Dhuhr prayer time.
+     
+-a                         Get Asr prayer time.
+     
+-m                         Get Maghrib prayer time.
+     
+-i                         Get Ishaa prayer time.
+     
+-p                         Get elapsed from previous prayer time.
+     
+-n                         Get remaining to next prayer time.
+     
+-N                         Get next prayer Name.
+     
+-Na                        Get next prayer Name in arabic.
     
 step 1
 
